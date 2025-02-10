@@ -19,7 +19,7 @@
       "deploy": true
     },
     {
-      "name": "Diffraction grating: to determine the wavelength of laser",
+      "name": "Diffraction grating to determine the wavelength of laser",
       "short-name": "diffraction-grating",
       "repo": "https://github.com/virtual-labs/exp-diffraction-grating-iitb",
       "tag": "v1.0.0",
